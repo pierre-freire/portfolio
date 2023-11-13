@@ -17,7 +17,7 @@ export default function Experience() {
 
 	return (
 		<section id="experience" className="flex flex-col items-center mt-4 mb-8">
-			<SectionHeading icon={faHouseLaptop}>Experience</SectionHeading>
+			<SectionHeading icon={faHouseLaptop}>Experiência</SectionHeading>
 			<div className="flex flex-col">
 				<div className="flex justify-center m-2 gap-2">
 					{[0, 1, 2, 3, 4].map((elm) => {
