@@ -22,12 +22,11 @@ const skills = [
 export default function Skills() {
 	return (
 		<section id="skills" className="flex flex-col items-center">
-			<SectionHeading icon={faCode}>Habilidades e Tecnologias</SectionHeading>
+			<SectionHeading icon={faCode}>Skills and Technologies</SectionHeading>
 			<Paragraph>
-				Explore minha caixa de ferramentas de habilidades e as tecnologias de
-				ponta que eu domino. Desde desenvolvimento web até design, estou
-				equipado para transformar seus sonhos digitais em realidade. Descubra as
-				ferramentas que impulsionam minha paixão por inovação e criatividade.
+				Explore my toolbox of skills and cutting-edge technologies that I
+				master. I&apos;m equipped to turn your digital dreams into reality.
+				Discover the tools that drive my passion for innovation and creativity.
 			</Paragraph>
 			<div className="flex flex-wrap gap-4 m-8 p-4 md:grid md:grid-cols-3 md:w-2/3">
 				{skills.map((elm, i) => {

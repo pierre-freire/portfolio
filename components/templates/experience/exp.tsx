@@ -21,7 +21,7 @@ export const experiences = [
 		skills: ["NodeJs", "Express", "MongoDB", "Jasmine"],
 	},
 	{
-		role: "Frontend Developer Pleno",
+		role: "Frontend Developer - Mid level",
 		company: "Luztr - Accelerated Innovation",
 		period: "Feb 2020 - Oct 2021",
 		description:
@@ -43,8 +43,8 @@ export const experiences = [
 		],
 	},
 	{
-		role: "Desenvolvedor Front End Pleno",
-		company: "Tesu",
+		role: "Mid-Level Front End Developer",
+		company: "Freelancer",
 		period: "Aug 2022 - Mar 2024",
 		description:
 			"I worked as a freelancer assisting in the development of various projects, including:",
@@ -66,7 +66,7 @@ export const experiences = [
 		],
 	},
 	{
-		role: "Consultor Frontend (Trabalho voluntário) ",
+		role: "Frontend Consultant (Volunteer Work) ",
 		company: "Base dos Dados",
 		period: "Feb 2023 - Mar 2024",
 		description:
