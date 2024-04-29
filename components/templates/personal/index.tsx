@@ -9,10 +9,10 @@ export default function Personal() {
 			<div className="flex flex-col justify-center max-w-prose">
 				<h1 className="text-3xl m-4">Front end Developer</h1>
 				<Paragraph>
-					Bem-vindo ao meu portfólio! Aqui, você encontrará uma coleção das
-					minhas melhores criações e projetos. Sou apaixonado por design e
-					desenvolvimento, e estou ansioso para compartilhar meu trabalho e
-					experiência. Explore e entre em contato para colaborações incríveis.
+					Welcome to my portfolio! Here, you&apos;ll find a collection of my
+					best creations and projects. I&apos;m passionate about design and
+					development, and I&apos;m excited to share my work and experience.
+					Explore and get in touch for amazing collaborations.
 				</Paragraph>
 			</div>
 			<Image
