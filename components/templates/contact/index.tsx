@@ -10,7 +10,7 @@ import ContactItem from "@/components/molecules/contactItem";
 export default function Contact() {
 	return (
 		<section id="contact" className="flex flex-col items-center mt-4">
-			<SectionHeading icon={faAddressCard}>Contato</SectionHeading>
+			<SectionHeading icon={faAddressCard}>Contact</SectionHeading>
 			<div className="flex gap-2 flex-wrap justify-around w-2/3">
 				<ContactItem
 					icon={faEnvelope}
